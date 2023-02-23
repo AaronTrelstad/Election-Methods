@@ -1,1 +1,1 @@
-# Stock-Portfolio-Analysis
+Elections methods dicussed in Discrete Math
