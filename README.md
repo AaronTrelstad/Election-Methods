@@ -1,1 +1,1 @@
-Elections methods dicussed in Discrete Math
+Election methods dicussed in Discrete Math
